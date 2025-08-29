@@ -1,0 +1,8 @@
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+.no-scrollar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
